@@ -4,9 +4,8 @@
 
   <groupId>automation</groupId>
   <artifactId>devops-project</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-
+  <version>0.0.1-SNAPSHOT</version>
   <name>devops-project</name>
   <url>http://maven.apache.org</url>
 
@@ -24,7 +23,7 @@
     </dependency>
   </dependencies>
   <build>
-  <finalName>RELEASE_0.1</finalName>
+  <finalName>devops-project</finalName>
       </build>
   
 </project>
